@@ -1,7 +1,4 @@
-# Flask_API_Json_Web_Token
-Flask JWT Authentication Example
-# Flask JWT Authentication Example
-
+# Json Web Token Authentication
 This is a simple Flask application demonstrating JWT (JSON Web Token) authentication. It includes a login route that generates a token upon successful authentication and a protected route that requires a valid token for access.
 
 ## Getting Started
